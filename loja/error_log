@@ -1,0 +1,8 @@
+[14-Mar-2023 02:14:10 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function php_info() in /home1/roledo12/public_html/loja/info.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/roledo12/public_html/loja/info.php on line 2
+[17-Mar-2023 02:54:47 America/Fortaleza] PHP Fatal error:  Cannot redeclare Categorias::delete() in /home1/roledo12/public_html/loja/application/controllers/restrita/Categorias.php on line 219
+[17-Mar-2023 02:55:38 America/Fortaleza] PHP Fatal error:  Cannot redeclare Categorias::delete() in /home1/roledo12/public_html/loja/application/controllers/restrita/Categorias.php on line 219
+[17-Mar-2023 02:55:48 America/Fortaleza] PHP Fatal error:  Cannot redeclare Categorias::delete() in /home1/roledo12/public_html/loja/application/controllers/restrita/Categorias.php on line 219
+[17-Mar-2023 03:02:21 America/Fortaleza] PHP Fatal error:  Cannot redeclare Categorias::delete() in /home1/roledo12/public_html/loja/application/controllers/restrita/Categorias.php on line 219
